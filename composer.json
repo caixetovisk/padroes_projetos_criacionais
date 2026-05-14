@@ -1,0 +1,19 @@
+{
+    "name": "aula/design-patterns-rpg",
+    "description": "Projeto didático de Padrões de Projeto com tema RPG",
+    "type": "project",
+    "require": {
+        "php": ">=8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "RPG\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Professor",
+            "email": "professor@aula.com"
+        }
+    ]
+}
