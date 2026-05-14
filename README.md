@@ -200,4 +200,4 @@ php index.php
 - **Design Patterns** — Gang of Four (Erich Gamma et al.)
 - **PHP Standards Recommendations** — PSR-4 Autoloading
 - **refactoring.guru** — Exemplos visuais dos padrões
-# padroes_projetos_criacionais
+
